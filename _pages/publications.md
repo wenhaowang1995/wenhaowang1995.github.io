@@ -9,7 +9,7 @@ ___
 
 ### <span style="color:#52ADC8">Captured by Captions: On Memorization and its Mitigation in CLIP Models</span>
 <b>Wenhao Wang</b>, Adam Dziedzic,  Grace C. Kim, Michael Backes, Franziska Boenisch.\
-In *The Thirteenth International Conference on Learning Representations (ICLR)*, 2025.
+In *The Thirteenth International Conference on Learning Representations (ICLR)*, 2025.\
 [[arXiv](https://arxiv.org/abs/2502.07830)]
 
 ## 2024

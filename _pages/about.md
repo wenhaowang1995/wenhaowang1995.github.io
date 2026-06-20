@@ -13,6 +13,7 @@ I am currently a PhD student supervised by [Prof. Michael Backes](https://cispa.
 Trustworthy Machine Learning (data security and privacy protection)
 
 ## What's New
+[06/2026] One paper accepted at ECCV'26!\
 [01/2025] One paper accepted at ICLR'25!\
 [09/2024] One paper accepted at Neurips'24!\
 [02/2024] I pass my Qualification Exam!\

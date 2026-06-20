@@ -4,6 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2026
+___
+
+### <span style="color:#52ADC8">MultiMem: Measuring and Mitigating Memorization in Multi-Modal Contrastive Learning</span>
+<b>Wenhao Wang</b>, Franziska Boenisch,  Michael Backes, Adam Dziedzic.\
+In *The Thirteenth International Conference on Learning Representations (ICLR)*, 2025.\
+[[arXiv](https://arxiv.org/abs/2502.07830)]
+
 ## 2025
 ___
 

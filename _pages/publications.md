@@ -11,7 +11,7 @@ ___
 ### <span style="color:#52ADC8">MultiMem: Measuring and Mitigating Memorization in Multi-Modal Contrastive Learning</span>
 <b>Wenhao Wang</b>, Franziska Boenisch,  Michael Backes, Adam Dziedzic.\
 In *The 19th European Conference on Computer Vision (ECCV)*, 2026.\
-[[arXiv](https://arxiv.org/abs/2502.07830)]
+[[arXiv](https://arxiv.org/abs/2606.22220v2)]
 
 ## 2025
 ___
